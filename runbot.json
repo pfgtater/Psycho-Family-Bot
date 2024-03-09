@@ -1,0 +1,12 @@
+{
+    "apps": [
+      {
+        "name": "prod-bot",
+        "script": "index.js",
+        "error_file": "logs/prod-error.log",
+        "out_file": "logs/prod-out.log",
+        "log_type": "json",
+        "log_date_format": "YYYY-MM-DD HH:mm:ss.SSS"
+      }
+    ]
+  }

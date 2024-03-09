@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Psycho Soldiers",
+    "tag": "9VRP8CQQ",
+    "start": "Champion League I",
+    "played": "yes",
+    "end": {
+      "league": "Champion League I",
+      "rank": "2"
+    }
+  },
+  {
+    "name": "Psycho Warriors",
+    "tag": "2P8LC8U8G",
+    "start": "Champion League II",
+    "played": "yes",
+    "end": {
+      "league": "Champion League I",
+      "rank": "1"
+    }
+  },
+  {
+    "name": "Psycho Cadets",
+    "tag": "2PLRY88C9",
+    "start": "Champion League I",
+    "played": "no",
+    "end": {
+      "league": "",
+      "rank": ""
+    }
+  },
+  {
+    "name": "Psycho Troopers",
+    "tag": "2LL02UQGV",
+    "start": "Champion League III",
+    "played": "yes",
+    "end": {
+      "league": "Champion League III",
+      "rank": "4"
+    }
+  },
+  {
+    "name": "PsychoPaths",
+    "tag": "2L09YR89R",
+    "start": "Champion League II",
+    "played": "yes",
+    "end": {
+      "league": "Champion League II",
+      "rank": "5"
+    }
+  },
+  {
+    "name": "House Veganaise",
+    "tag": "9PLP9R8V",
+    "start": "Champion League I",
+    "played": "no",
+    "end": {
+      "league": "",
+      "rank": ""
+    }
+  },
+  {
+    "name": "ΠΡΟΜΗΘΕΑΣ",
+    "tag": "28GG28YVU",
+    "start": "Champion League II",
+    "played": "no",
+    "end": {
+      "league": "",
+      "rank": ""
+    }
+  },
+  {
+    "name": "Nyte Garden Dug",
+    "tag": "2LPCG2GPG",
+    "start": "Master League I",
+    "played": "yes",
+    "end": {
+      "league": "Master League I",
+      "rank": "3"
+    }
+  },
+  {
+    "name": "FlareonsOfFire",
+    "tag": "QL8YGGLC",
+    "start": "Master League I",
+    "played": "yes",
+    "end": {
+      "league": "Master League I",
+      "rank": "3"
+    }
+  },
+  {
+    "name": "Polish Hussars",
+    "tag": "8Y0YJ2CP",
+    "start": "Master League III",
+    "played": "no",
+    "end": {
+      "league": "",
+      "rank": ""
+    }
+  },
+  {
+    "name": "SouL×HunTErs",
+    "tag": "299QVVYCV",
+    "start": "Master League III",
+    "played": "yes",
+    "end": {
+      "league": "Master League III",
+      "rank": "5"
+    }
+  },
+  {
+    "name": "Psycho Brigade",
+    "tag": "2LYC2VV2C",
+    "start": "Master League II",
+    "played": "yes",
+    "end": {
+      "league": "Master League II",
+      "rank": "2"
+    }
+  },
+  {
+    "name": "Psycho Blue",
+    "tag": "2LC9RC99V",
+    "start": "Master League III",
+    "played": "yes",
+    "end": {
+      "league": "Master League III",
+      "rank": "4"
+    }
+  },
+  {
+    "name": "Psycho Platoon",
+    "tag": "2LRP0Q0P0",
+    "start": "Crystal League I",
+    "played": "yes",
+    "end": {
+      "league": "Crystal League I",
+      "rank": "2"
+    }
+  },
+  {
+    "name": "Psycho Ulcers",
+    "tag": "2QJY0YPPP",
+    "start": "Crystal League III",
+    "played": "yes",
+    "end": {
+      "league": "Crystal League III",
+      "rank": "5"
+    }
+  },
+  {
+    "name": "TGO TGO",
+    "tag": "2YQGY099L",
+    "start": "Master League I",
+    "played": "yes",
+    "end": {
+      "league": "Master League I",
+      "rank": "3"
+    }
+  }
+]
